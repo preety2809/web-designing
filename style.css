@@ -1,0 +1,205 @@
+                 .row .column1 {
+                    margin-top:-578px;
+                    float: left;
+                    width: 50%;
+                    height: 700px;
+                    background-image:url("cafe.jpg") ;
+                    background-repeat: no-repeat;
+                    background-size:cover;
+
+
+
+                    
+                }
+                .row .column2 {
+                    margin-top:-578px;
+                    float: right;
+                    width: 50%;
+                    height: 700px
+                    
+
+                }
+                .row .column1 h1{
+                    font-size: 60px;
+                    margin-top: 50px;
+                    margin-left: 100px;
+                    
+
+                }
+
+
+                .second {
+                    margin-top: 600px;
+                    height: 500px;
+                    width: 100%;
+                    text-align: center;
+                    padding-top: 200px;
+
+                }
+                .third {
+                    height: 1000px;
+                    width: 100%;
+                }
+                #vase{
+                    margin-top: -500px ; 
+                    margin-left: 300px;
+                    margin-right: 20px;
+                    margin-bottom: 50px;
+                }
+                .white{
+                    height: 900px;
+                    width: 100%;background-color: white;
+                    text-align: center;
+                }
+                #cafe{
+                    margin-left: 400px;
+                    margin-right: 350px;
+                    margin-top: 50px;
+                }
+                .white p{
+                    margin-left: 30%;
+                    margin-right: 30%;
+                    margin-top: -10px;
+                }
+                .read button{
+                    
+                    width: 120px;
+                    height: 50px;
+                    border-radius: 5px;
+                    background: transparent;
+                    
+                    
+
+
+                }
+                .row2 .column3{
+                    background-color: white;
+                    height: 700px;
+                    width: 50%;
+                    float: left;
+                    text-align: center;
+                }
+                .row2 .column3 p{
+                    padding-top: 20%;
+                    padding-bottom: 20%;
+                    padding-left: 10%;
+                    padding-right: 10%;
+                    
+                }
+                
+                    
+                .row2 .column4{
+                    background-color: rgb(104, 181, 184); 
+                    width: 50%;
+                    height: 700px;
+                    float: right;
+
+
+                }
+                .column4 img{
+
+                
+                    margin-left: 25%;
+                    margin-top: 5%;
+                }
+                .photos{
+                    height: 400px;
+                    width: 100%;
+                    background-color: whitesmoke;
+                    margin-top: 700px;
+                }
+                .row2 .column3 h2{
+                    font-size: 55px;
+                    margin-top: 75px;
+                    justify-content: center;
+                }
+
+                .row2 .column3 p{
+                    font-size: 26px;
+                    margin-bottom: 300px;
+                    justify-content: center;
+                }
+                .last{
+                    height: 800px;
+                    width: 100%;
+                    background-color: rgb(104, 181, 184);   
+                }
+               
+                .box{
+                    height: 250px;
+                    width: 250px;
+                    display: inline-block;
+                    margin-top:20px;
+                    margin-left:110px;
+                    /*padding: 30px 0px 20px 0px;*/
+                    
+                }
+                .box img{
+                    margin-left: 100px;
+                    margin-top: 30px;
+
+                }
+                .box h3{
+                    text-align: center;
+
+                }
+                .box h5{
+                    text-align: center;
+                    font-size: larger;
+                }
+                
+                .form{
+                    margin-top: 100px;
+                    text-align: center;
+                }
+                .form input{
+                    height: 30px;
+                    width:500px;
+                    border-radius: 20px;
+                }
+                
+                
+
+                
+                /*.end{
+                    height: 300px;
+                    width: 100%;
+                    background-color: rgba(0, 0, 0, 0.616);
+                    margin-top: -30px;*/
+                    .footer {
+                        display: flex;
+                        justify-content: space-between;
+                        align-items: center;
+                        background-color:black;
+                        padding: 40px 45px;
+                    }
+                    .footer .copy {
+                        
+                        color: white;
+                    }
+                    .bottom-links {
+                        display: flex;
+                        justify-content: space-around;
+                        align-items: center;
+                        padding: 45px 0;
+                    }
+                    .bottom-links .links {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        padding: 0 45px;
+                    }
+                    .bottom-links .links span {
+                        font-size: 20px;
+                        color: white;
+                        text-transform: uppercase;
+                        margin: 10px 0;
+                    }
+                    .bottom-links .links a {
+                        text-decoration: none;
+                        color: #a1a1a1;
+                    }
+                    
+                
+                
